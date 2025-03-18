@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA<br>🤝 I’m looking for help with Internship<br>🌱 I’m currently learning DSA & Backend<br>💬 Ask me about Development <br>⚡ First Runner Up in internal college hackathon at Jabalpur Engineering College,<br>in SIH 2024 
+🔭 I’m currently working on DSA<br>🤝 Building Drone Mandi , a platform for all your drone needs .<br>🌱 I’m currently learning DSA & Backend<br>💬 Ask me about Development <br>⚡ First Runner Up in internal college hackathon at Jabalpur Engineering College,<br>in SIH 2024 
 
 
 ## 🌐 Socials:
